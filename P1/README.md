@@ -30,10 +30,10 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Se ha elegido turgranada debido a que se trata de una la plataforma del propio ayuntamiento que se centra en viajes turísticos en la  ciudad de granada, y se ha considerado que se puede evaluar mejor la calidad de la misma debido a que al vivir en dicha ciudad se conoce  de primera mano los viajes que se está tranando de ofertar/planificar
+Se ha elegido turgranada debido a que se trata de una la plataforma del propio ayuntamiento que se centra en viajes turísticos en la  ciudad de granada, y se ha considerado que se puede evaluar mejor la calidad de la misma debido a que al vivir en dicha ciudad se conoce de primera mano los viajes que oferta.
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-
 
 Jose Antonio, está pensado para representar un pequeño sector de personas que trabajan en la ciudad pero por diversos motivos no han podido disfrutar de la misma.
 
