@@ -16,9 +16,6 @@ Miembros
 -----
 
 
-
-
-
 # Proceso de Diseño
 
 ## Paso 1. UX Desk Research & Analisis
@@ -27,6 +24,7 @@ Miembros
 -----
 
 Se ha elegido turgranada debido a que se trata de una la plataforma del propio ayuntamiento que se centra en viajes turísticos en la  ciudad de granada, y se ha considerado que se puede evaluar mejor la calidad de la misma debido a que al vivir en dicha ciudad se conoce  de primera mano los viajes que se está tranando de ofertar/planificar
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
