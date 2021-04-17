@@ -62,9 +62,11 @@ B. hace referencia a búsqueda, y A. hace refencia a actividades.
 
 * User/Task flow
 
-A continuación se muestran una representación de la navegación sobre la aplicación,
+A continuación se muestran una representación de la navegación sobre la aplicación, debido a que el diagrama ya estaba bastante saturado no se ha includido una opción para redirijir desde la página principal al perfil del ususario, pero se incluye un segundo diagrama mostrando la representación del perfil y las distintas opciones disponibles.
 
-![Método UX](../img/DiagramaAplicacion.png) 1.b DiagramaAplicación
+![Método UX](../img/DiagramaApp.png) 1.b Diagrama Aplicación
+
+![Método UX](../img/MiPerfil.png) 1.b Diagrama Perfil
 
 Un sub-diagrama explicando más en profundidad la navegación sobre la página de actividades
 
