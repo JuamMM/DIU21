@@ -33,6 +33,8 @@ La sección de ayuda consiste en una página con las preguntas frecuentes y una 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
 
+![Método UX](../img/ScopeCanvas.png) 1.b Scope Canvas
+
 
 ### TASK ANALYSIS
 
@@ -60,7 +62,10 @@ B. hace referencia a búsqueda, y A. hace refencia a actividades.
 | B. A en invierno          |      M        |      M        |        B       |    A      |     A     |      B         |
 | B. A el resto del año     |      B        |      B        |        B       |    M      |     M     |      M         |
 
-* User/Task flow
+
+### ARQUITECTURA DE INFORMACIÓN
+
+* Sitemap
 
 A continuación se muestran una representación de la navegación sobre la aplicación, debido a que el diagrama ya estaba bastante saturado no se ha includido una opción para redirijir desde la página principal al perfil del ususario, pero se incluye un segundo diagrama mostrando la representación del perfil y las distintas opciones disponibles.
 
@@ -72,14 +77,25 @@ Un sub-diagrama explicando más en profundidad la navegación sobre la página d
 
 ![Método UX](../img/Actividades.png) 1.b Diagrama activiades
 
-### ARQUITECTURA DE INFORMACIÓN
-
-* Sitemap
 * Labelling
-
+| Etiqueta                  | Descripción                           |
+|---------------------------|---------------------------------------|
+| B. actividades físicas    | Se muestran actividades físicas       |
+| B. alojamiento            | Se muestran todos los alojamientos ofertados        |
+| B. alojamiento LGTBf.     | Se muestran aquellos alojamientos específicamente lgtb friendly       |
+| B. actividades infantiles | Se muestran actividades pensadas para niños       |
+| B. actividades generales  | Se muestran todas las acividades actuales       |
+| Cambiar la planificación  | Permite cambiar las actividades seleccionadas        |
+| Realización del pago      | Permite pagar las actividades/alojamiento/etc...        |
+| Tours andando             | Muestra aquellos tours que se realizan a pie        |
+| Creación de Usuario	    | Crea un perfil de usuario        |
+| Log-in                    | Se inicia sesión con una cuenta de usuario ya existente        |
 
 ### Prototipo Lo-FI Wireframe
 
+Este es mi prototipo para la aplicación, da una idea básica de la disposición de los elementos.
+
+![Método UX](../img/PlantillaApp.png) 1.b Scope Canvas
 
 ### Conclusiones
 (incluye valoración de esta etapa)
