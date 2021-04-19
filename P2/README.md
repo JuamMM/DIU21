@@ -12,17 +12,17 @@ Se ha realizado la malla mediante las experiencias de los usuarios creado en la 
 
 ![Método UX](../img/feedback-capturegrid.png) 1.b Grid
 
-La propuesta de aplicación consiste en elaborar un producto de software que permita de una forma simple visitar la ciuadad de granada. Se ha tomando como inspiración la web/aplicación de turgranada. Se desea conservar todos los puntos fuertes de la misma además de incorporar algunos cambios para mejorar sus problemas.
+La propuesta de aplicación consiste en elaborar un producto de software (granadapp) que permita de una forma simple visitar la ciudad de granada. Se ha tomando como inspiración la web/aplicación de turgranada. Se desea conservar todos los puntos fuertes de la misma además de incorporar algunos cambios para mejorar sus problemas.
 
-Una de las funcionalidades nuevas es la introducción de la posibilidad de crear una cuenta de usuario para acelerar las transacciones y conservar la
+Una de las funcionalidades nuevas es la introducción de la posibilidad de crear una cuenta de usuario para acelerar las transacciones y conservar los datos de transacciones previas, así como permitir al usuario consultar de una forma eficiente y sencilla las actividades que ha solicitado.
 
 Las principales funciones de mi aplicación consisten en la búsqueda de actividades y alojamiento. Con funcionalidades dedicadas a la resolución de dudas y apoyo a las anteriormente mencionadas (sistema de pago, etc...)
 
-Cuando se inicialice la aplicación se mostrará una serie de redirecciones (alojamiento, actividaes, más información, ayuda). Además de mostrar aquellas actividades con mas popularidad en esta temporada.
+Cuando se inicialice la aplicación se mostrará una serie de redirecciones (alojamiento, actividades, más información, ayuda). Además de mostrar aquellas actividades con mas popularidad en esta temporada.
 
 La página de alojamiento mostrará hoteles, además de otros servicios de alojamiento. Se inclute también una página específica para alojamientos lgtb-friendly.
 
-La sección de actividades muestra todas las opciones para el usuario, incluye además dos subpáginas para seleccionar aquellas que sean específicamente al aire libre y aquellas que requieran de tabajo físico (deportivas). Cada actividad incluye un pequeño resumen sobre la misma, además de la fecha y el lugar donde se realizará.
+La sección de actividades muestra todas las opciones para el usuario, incluye además dos subpáginas para seleccionar aquellas que sean específicamente al aire libre y aquellas que requieran de esfuerzo físico (deportivas). Cada actividad incluye un pequeño resumen sobre la misma, además de la fecha y el lugar donde se realizará.
 
 Se incluye también una página con una breve la propia ciudad. Incluyendo redirecciones a activiades relacionadas con la misma y mostrando un mapa de la ciudad con sus lugares de interés.
 
@@ -78,18 +78,18 @@ Un sub-diagrama explicando más en profundidad la navegación sobre la página d
 ![Método UX](../img/Actividades.png) 1.b Diagrama activiades
 
 * Labelling
-| Etiqueta                  | Descripción                           |
-|---------------------------|---------------------------------------|
-| B. actividades físicas    | Se muestran actividades físicas       |
-| B. alojamiento            | Se muestran todos los alojamientos ofertados        |
+| Etiqueta                  | Descripción                                                           |
+|---------------------------|-----------------------------------------------------------------------|
+| B. actividades físicas    | Se muestran actividades físicas                                       |
+| B. alojamiento            | Se muestran todos los alojamientos ofertados                          |
 | B. alojamiento LGTBf.     | Se muestran aquellos alojamientos específicamente lgtb friendly       |
-| B. actividades infantiles | Se muestran actividades pensadas para niños       |
-| B. actividades generales  | Se muestran todas las acividades actuales       |
-| Cambiar la planificación  | Permite cambiar las actividades seleccionadas        |
-| Realización del pago      | Permite pagar las actividades/alojamiento/etc...        |
-| Tours andando             | Muestra aquellos tours que se realizan a pie        |
-| Creación de Usuario	    | Crea un perfil de usuario        |
-| Log-in                    | Se inicia sesión con una cuenta de usuario ya existente        |
+| B. actividades infantiles | Se muestran actividades pensadas para niños                           |
+| B. actividades generales  | Se muestran todas las acividades actuales                             |
+| Cambiar la planificación  | Permite cambiar las actividades seleccionadas                         |
+| Realización del pago      | Permite pagar las actividades/alojamiento/etc...                      |
+| Tours andando             | Muestra aquellos tours que se realizan a pie                          |
+| Creación de Usuario	    | Crea un perfil de usuario                                             |
+| Log-in                    | Se inicia sesión con una cuenta de usuario ya existente               |
 
 ### Prototipo Lo-FI Wireframe
 
@@ -98,4 +98,5 @@ Este es mi prototipo para la aplicación, da una idea básica de la disposición
 ![Método UX](../img/PlantillaApp.png) 1.b Scope Canvas
 
 ### Conclusiones
-(incluye valoración de esta etapa)
+
+En resumen, se desea crear una aplicación tomando como referencia la ya existente turgranada, pero arreglando los principales fallos que se han detectado mediante las user personas y el propio uso que yo mismo he hecho de la aplicación
