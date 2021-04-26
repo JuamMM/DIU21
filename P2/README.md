@@ -95,7 +95,7 @@ Un sub-diagrama explicando más en profundidad la navegación sobre la página d
 
 Este es mi prototipo para la aplicación, da una idea básica de la disposición de los elementos.
 
-![Método UX](../img/PlantillaApp.png) 1.b Scope Canvas
+![Método UX](../img/PlantillaAPP.png)
 
 ### Conclusiones
 
