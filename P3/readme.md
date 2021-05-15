@@ -21,7 +21,7 @@ Algunas imágenes que inspiran la apariencia de la aplicación son:
 
 ![Método UX](../img/Login.png) 1.a Login
 ![Método UX](../img/Map.png) 1.a Map
-![Método UX](../img/Inspira.png) 1.a Info
+![Método UX](../img/Inspira.jpg) 1.a Info
 
 
 ## Landing Page
