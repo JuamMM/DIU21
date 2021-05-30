@@ -1,6 +1,6 @@
 # DIU - Practica 3, entregables
 
-## Moodboard (diseño visual + logotipo) 
+## Moodboard (diseño visual + logotipo)
 A continuación se muestra la paleta de colores de la aplicación, junto con el logo de la misma.
 
 ![Método UX](../img/PalettaGranada.png) 1.a Paleta
@@ -51,4 +51,4 @@ Se adjunta un vídeo promocional para la aplicación
 
 https://www.youtube.com/watch?v=2_uLMXBEW8Y
 
- 
+
