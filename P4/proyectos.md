@@ -1,6 +1,6 @@
 # Listado de Proyectos Turismo - 2020/2021
 
-(actualización: Feb 2021) 
+(actualización: Feb 2021)
 
 Tema: DIU1 Planificación y organización de viajes
 
